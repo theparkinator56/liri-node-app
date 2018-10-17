@@ -1,2 +1,3 @@
 require("dotenv").config();
-var 
+var spotify = new Spotify(keys.spotify);
+console.log(spotify)
