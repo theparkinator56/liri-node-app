@@ -5,6 +5,7 @@
   "main": "liri.js",
   "dependencies": {
     "dot": "^1.1.2",
+    "dotenv": "^6.1.0",
     "env": "^0.0.2",
     "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
